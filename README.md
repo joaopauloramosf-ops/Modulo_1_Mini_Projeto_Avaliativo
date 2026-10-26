@@ -4,6 +4,10 @@
 
 Este repositório contém o desenvolvimento de um projeto prático de análise de dados aplicado ao setor varejista, dividindo-se em sprints focadas em limpeza, transformação, estatística descritiva, agrupamentos e visualização de tendências temporais.
 
+# Adquirindo o dado e salvando
+- Baixe os dados do site: https://www.kaggle.com/datasets/namespaiva/base-varejo/data 
+- Certificar o salvamento do .csv como: Base Varejo.csv
+
 ## 🚀 Etapas do Projeto (Sprints)
 - **Sprint 1:** Importação e inspeção inicial da base de dados (`pandas`).
 - **Sprint 2:** Limpeza e tratamento de strings (`.str`), datas (`datetime`) e tipagem com remoção de inconsistências (`#N/D`).
